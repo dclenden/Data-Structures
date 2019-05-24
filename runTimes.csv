@@ -1,0 +1,9 @@
+,(# of Simulation: 50),,,,,,,
+,100,,1000,,10000,,100000,
+,t?,?,t?,?,t?,?,t?,?
+Quick Sort,,,,,,,,
+Shell Sort,,,,,,,,
+Insertion Sort,,,,,,,,
+Selection Sort,,,,,,,,
+t? = mean time,,,,,,,,
+? = standard deviation,,,,,,,,
